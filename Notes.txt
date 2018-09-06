@@ -1,0 +1,19 @@
+verbo de los metodos de HTTP?
+
+configuración minima de express, debe ser en ruta
+
+
+curl: programa de consola que hace peticiones http - trabaja con URL's
+
+node index.js 3000
+/(ruta): enrutador a donde debe ir el callback no son rutas físicas
+
+common js: Libreria para hacer javascript modular.
+
+ECMAScriptnode: Es para node
+
+babel js: Transpilador de EMC5 en javascript
+
+app.use(argumento el middleware): Para que use un middelware
+
+cuando los archivos estan en una carpeta fisica busca un index.html, si no un index.js si la ruta colocas solo / sin una ruta especifica
